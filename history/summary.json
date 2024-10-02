@@ -4,17 +4,19 @@
     "url": "https://audiobooks.yamen.app",
     "icon": "https://icons.duckduckgo.com/ip3/audiobooks.yamen.app.ico",
     "slug": "audiobookshelf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 572,
-    "timeDay": 752,
-    "timeWeek": 546,
-    "timeMonth": 572,
-    "timeYear": 572,
-    "dailyMinutesDown": {}
+    "time": 559,
+    "timeDay": 443,
+    "timeWeek": 494,
+    "timeMonth": 559,
+    "timeYear": 559,
+    "dailyMinutesDown": {
+      "2024-10-02": 0
+    }
   }
 ]
